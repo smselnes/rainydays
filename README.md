@@ -1,2 +1,2 @@
-# rainydays
-My first website created with HTML &amp; CSS
+# rainydays-assignment
+My first creation of a website, using HTML and CSS. 
